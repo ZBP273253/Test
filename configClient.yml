@@ -1,1 +1,4 @@
-aa: configCilentbobogou
+    username: root
+    url: jdbc:mysql://localhost:3306/a?serverTimezone=Asia/Shanghai
+    password: 273253
+    className: com.mysql.cj.jdbc.Driver
